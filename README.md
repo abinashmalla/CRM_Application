@@ -1,3 +1,47 @@
+# 🧪 Mindrisers Tech CRM - QA Automation Suite
+
+Automated end-to-end (E2E) testing and API validation framework for the **Mindrisers Tech CRM Portal** ([crm.mindriserstech.com](https://crm.mindriserstech.com/)).
+
+---
+
+## 📌 Project Overview
+
+This test automation framework is built to ensure quality, reliability, and security across the Mindrisers Tech CRM platform. It automates key workflow verifications including user authentication, lead pipeline management, role-based access control (RBAC), and form submissions.
+
+### Automated Test Scenarios
+* 🔑 **Authentication & RBAC:** Verification of Login/Logout, password resets, and permission restrictions across Admin, Counselor, and Staff roles.
+* 📋 **Lead & Inquiry Management:** End-to-end creation, status updates, and tracking of incoming leads/student inquiries.
+* 📝 **Form Validations:** Data integrity and boundary value analysis on intake forms and fields.
+* 🌐 **Cross-Browser & Responsive:** UI verification across modern browsers (Chrome, Firefox, Edge).
+* 📊 **API Testing:** Automated REST API validations for critical endpoints.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Language:** [Python 3.10+](https://www.python.org/)
+* **Automation Framework:** [Selenium WebDriver](https://www.selenium.dev/) / [Playwright](https://playwright.dev/python/)
+* **Test Runner:** [pytest](https://docs.pytest.org/)
+* **Reporting:** [Allure Framework](https://qameta.io/allure-report/) / HTML Reports
+* **Design Pattern:** Page Object Model (POM)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed locally:
+* **Python 3.10+**
+* **Git**
+* **Google Chrome** / **Firefox** browser installed
+
+### Setup & Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/abinashmalla/Mindrisers_CRM_Automation.git](https://github.com/abinashmalla/Mindrisers_CRM_Automation.git)
+   cd Mindrisers_CRM_Automation
 # 🏢 Mindrisers Tech CRM Portal
 
 Official Customer Relationship Management (CRM) system for **Mindrisers Technology** ([crm.mindriserstech.com](https://crm.mindriserstech.com/)). 
