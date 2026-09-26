@@ -1,13 +1,13 @@
 # 🧪 Mindrisers Tech CRM - QA Automation Suite
-<p text-alignment="justify">
+<div align="justify">
 Automated end-to-end (E2E) testing and API validation framework for the **Mindrisers Tech CRM Portal** ([crm.mindriserstech.com](https://crm.mindriserstech.com/)).
 
 ---
-
+</div>
 ## 📌 Project Overview
-
+<div align="justify">
 This test automation framework is built to ensure quality, reliability, and security across the Mindrisers Tech CRM platform. It automates key workflow verifications including user authentication, lead pipeline management, role-based access control (RBAC), and form submissions.
-
+</div>   
 ### Automated Test Scenarios
 * 🔑 **Authentication & RBAC:** Verification of Login/Logout, password resets, and permission restrictions across Admin, Counselor, and Staff roles.
 * 📋 **Lead & Inquiry Management:** End-to-end creation, status updates, and tracking of incoming leads/student inquiries.
@@ -89,7 +89,7 @@ Ensure you have the following installed on your local machine:
    git clone [https://github.com/your-username/mindrisers-crm.git](https://github.com/your-username/mindrisers-crm.git)
    cd mindrisers-crm
 # CRM Application
-
+<div align="justify">
 ## Description
 <p align="justify">
 CRM Application is a web-based Customer Relationship Management platform developed to help businesses efficiently manage customer information, leads, contacts, and day-to-day business interactions from a centralized system.
@@ -97,7 +97,7 @@ CRM Application is a web-based Customer Relationship Management platform develop
 The application provides a structured and user-friendly interface for organizing customer data, tracking business activities, and improving communication and relationship management. It is designed to simplify CRM workflows and provide users with quick access to important customer and business information.
 </p>
 ### Live Application
-
+</div>   
 [CRM Application](https://crm.mindriserstech.com/)
 
 </p>
