@@ -8,6 +8,7 @@ Automated end-to-end (E2E) testing and API validation framework for the **Mindri
 <div align="justify">
 This test automation framework is built to ensure quality, reliability, and security across the Mindrisers Tech CRM platform. It automates key workflow verifications including user authentication, lead pipeline management, role-based access control (RBAC), and form submissions.
 </div>   
+<div align="justify">
 ### Automated Test Scenarios
 * 🔑 **Authentication & RBAC:** Verification of Login/Logout, password resets, and permission restrictions across Admin, Counselor, and Staff roles.
 * 📋 **Lead & Inquiry Management:** End-to-end creation, status updates, and tracking of incoming leads/student inquiries.
@@ -16,7 +17,7 @@ This test automation framework is built to ensure quality, reliability, and secu
 * 📊 **API Testing:** Automated REST API validations for critical endpoints.
 
 ---
-
+</div>
 ## 🛠️ Tech Stack & Tools
 
 * **Language:** [Python 3.10+](https://www.python.org/)
@@ -51,7 +52,7 @@ Official Customer Relationship Management (CRM) system for **Mindrisers Technolo
 ## 📌 About the Project
 
 The Mindrisers Tech CRM is an enterprise-grade internal management platform built to streamline client relationships, track leads and student/corporate enrollments, manage follow-ups, and automate workflow operations across various business verticals.
-
+<div align="justify">
 ### Key Features
 * 📊 **Lead & Pipeline Management:** Track prospective clients, students, and partners through custom sales/intake pipelines.
 * 👥 **User & Role Management:** Role-based access control (RBAC) for admins, counselors, sales teams, and instructors.
@@ -60,7 +61,7 @@ The Mindrisers Tech CRM is an enterprise-grade internal management platform buil
 * 🔐 **Secure Authentication:** Robust user login sessions and permission layers.
 
 ---
-
+</div>
 ## 🛠️ Tech Stack
 
 *(Update this section depending on your project's exact implementation)*
