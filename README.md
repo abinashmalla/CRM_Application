@@ -1,5 +1,5 @@
 # 🧪 Mindrisers Tech CRM - QA Automation Suite
-
+<p text-alignment="justify">
 Automated end-to-end (E2E) testing and API validation framework for the **Mindrisers Tech CRM Portal** ([crm.mindriserstech.com](https://crm.mindriserstech.com/)).
 
 ---
@@ -100,4 +100,4 @@ The application provides a structured and user-friendly interface for organizing
 
 [CRM Application](https://crm.mindriserstech.com/)
 
-
+</p>
